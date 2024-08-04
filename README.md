@@ -53,3 +53,4 @@ This project provides a RESTful API for managing projects and tasks, including u
 To run the tests, use the following command:
     ```bash
     npm test
+    ```
