@@ -49,7 +49,7 @@ This project provides a RESTful API for managing projects and tasks, including u
 - Sign Out: POST /auth/signout
 
 ## Testing
-To run tests:  
+To run tests
     ```
-    npm test
+     npm test
     ```
