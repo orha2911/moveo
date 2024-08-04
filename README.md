@@ -16,7 +16,7 @@ This project provides a RESTful API for managing projects and tasks, including u
 - Install dependencies: npm install
 
 ## Running the Application
-start the server: npm start
+start the server: `npm start`
 
 ### API Endpoints
 
@@ -41,4 +41,4 @@ start the server: npm start
 - Sign Out: POST /auth/signout
 
 ### Testing
-To run tests for your API: npm test
+To run tests for your API: ```npm test
