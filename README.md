@@ -12,11 +12,19 @@ This project provides a RESTful API for managing projects and tasks, including u
 - **Role-based Access Control**: Restrict access to certain routes based on user roles.
 
 ## Installation
-- Clone the repository:
-- Install dependencies: npm install
+1. Clone this repository to your local machine.
+    ```
+    git clone https://github.com/orha2911/task-management.git
+    ```
+2. Navigate to the project directory.
+    ```
+    cd signature-generator
+    ```
+3. Running the Application
+    ```
+     npm start
+    ```
 
-## Running the Application
-start the server: `npm start`
 
 ### API Endpoints
 
@@ -41,4 +49,7 @@ start the server: `npm start`
 - Sign Out: POST /auth/signout
 
 ### Testing
-To run tests for your API: ```npm test
+To run tests:  
+    ```
+    npm test
+    ```
