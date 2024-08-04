@@ -26,16 +26,16 @@ This project provides a RESTful API for managing projects and tasks, including u
     ```
 
 
-### API Endpoints
+## API Endpoints
 
-## Projects
+### Projects
 - Create: POST /projects
 - Get All: GET /projects
 - Get By ID: GET /projects/:id
 - Update: PUT /projects/:id
 - Delete: DELETE /projects/:id
 
-# Tasks
+### Tasks
 - Create: POST /projects/:projectId/tasks
 - Get By Project: GET /projects/:projectId/tasks
 - Get By ID: GET /projects/:projectId/tasks/:taskId
@@ -43,12 +43,12 @@ This project provides a RESTful API for managing projects and tasks, including u
 - Delete: DELETE /projects/:projectId/tasks/:taskId
 - Delete All Tasks in Project: DELETE /projects/:projectId/tasks
 
-# Authentication
+### Authentication
 - Sign Up: POST /auth/signup
 - Sign In: POST /auth/signin
 - Sign Out: POST /auth/signout
 
-### Testing
+## Testing
 To run tests:  
     ```
     npm test
