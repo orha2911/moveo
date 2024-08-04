@@ -5,11 +5,11 @@ export const PORT = 3000;
 export const MONGO_URI = 'mongodb+srv://orha2911:orha@moveo.fozfris.mongodb.net/?retryWrites=true&w=majority&appName=moveo';
 
 // Test user credentials
-export const USERNAMR_TEST = 'newuser3@gmail.com';
+export const USERNAMR_TEST = 'admin@example.com';
 export const PASSWORD_TEST = 'P@ssw0rd!';
 
 // Non-admin test user credentials
-export const NON_ADMIN_USERNAMR_TEST = 'newuser6@gmail.com';
+export const NON_ADMIN_USERNAMR_TEST = 'non_admin@example.com';
 export const NON_ADMIN_PASSWORD_TEST = 'P@ssw0rd!';
 
 // AWS Cognito configuration

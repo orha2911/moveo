@@ -54,3 +54,12 @@ To run the tests, use the following command:
     ```
     npm test
     ```
+## Sample User Credentials
+
+- **Admin User**
+  - Username: `admin@example.com`
+  - Password: `'P@ssw0rd!'`
+
+- **Non-Admin User**
+  - Username: `non_admin@example.com`
+  - Password: `'P@ssw0rd!'`
