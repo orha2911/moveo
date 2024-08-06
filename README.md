@@ -18,7 +18,7 @@ This project provides a RESTful API for managing projects and tasks, including u
     ```
 2. Navigate to the project directory.
     ```
-    cd signature-generator
+    cd task-management
     ```
 3. Running the Application
     ```
